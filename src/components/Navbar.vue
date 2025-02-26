@@ -17,7 +17,7 @@
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <router-link to="/add-face" class="nav-link">Add Face</router-link>
+              <router-link to="/add-face" class="nav-link">Ajouter Visage</router-link>
             </li>
             <li class="nav-item">
               <router-link to="/reconnaissance" class="nav-link">Reconnaissance Image</router-link>
